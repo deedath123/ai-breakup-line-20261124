@@ -2,6 +2,9 @@
 
 Writes the locked breakup line to <output dir>/entry.txt with no
 trailing newline.
+
+Verified: 145 chars, 149 bytes, one line, entry.txt sha256
+0ad0aa75240f39f999a27517528139f053fe66a16e2d8a48d1c3702d43db0390
 """
 
 import os
